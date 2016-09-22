@@ -1,0 +1,12 @@
+import sys
+
+text = sys.argv[0]
+pattern = sys.argv[1]
+
+def count(text,pattern):
+	count = 0
+	for i in range(len(text) - len(pattern) + 1):
+		if text[i:i+len(pattern)] == pattern:
+			count += 1
+	print(count)
+
