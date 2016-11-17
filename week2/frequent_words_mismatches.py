@@ -1,3 +1,5 @@
+__author__ = 'Siddhant Srivastava'
+
 import sys
 from collections import defaultdict
 from itertools import combinations, product, izip

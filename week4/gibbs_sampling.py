@@ -1,3 +1,5 @@
+__author__ = 'Siddhant Srivastava'
+
 import sys
 from random import randint
 

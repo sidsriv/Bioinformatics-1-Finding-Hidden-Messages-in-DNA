@@ -1,3 +1,5 @@
+__author__ = 'Siddhant Srivastava'
+
 import sys
 
 file_name = sys.argv[1]
