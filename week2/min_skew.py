@@ -1,9 +1,9 @@
 import sys
 
 Genome = sys.argv[1]
-'''with open(sys.argv[1], 'r') as fp:
-           Genome = fp.readline().strip('\n')
-'''
+#with open(sys.argv[1], 'r') as fp:
+#           Genome = fp.readline().strip('\n')
+
 
 def Skew(Genome):
     
